@@ -9,9 +9,7 @@ gem 'devise'
 gem 'activesupport'
 gem 'activeadmin'
 gem 'active_admin_slickr',  path: '/Users/lost-in-code/development/active_admin_slickr'
-# gem 'active_admin_slickr', git: 'https://github.com/primate-inc/active_admin_slickr.git', branch: 'master'
 gem 'slickr_cms', git: 'https://github.com/primate-inc/slickr.git', branch: 'master_previewable'
-# gem 'slickr_cms',  path: '/Users/lost-in-code/development/slickr'
 
 
 
